@@ -1,8 +1,10 @@
 使用说明：
-1.软件若无法启动，可直接从“%windir%\System32”(32bit 系统) 或 “%windir%\sysWOW64”(64bit 系统)，运行“Virus.exe”
-2.软件运行过程中一些卡顿属于正常现象（除非你配置超高）
+1.软件若无法一次启动成功，可在第一次运行不成功后直接从“%windir%\System32”(32bit 系统) 或 “%windir%\sysWOW64”(64bit 系统)，运行“Virus.exe”
+2.软件运行过程中一些卡顿属于正常现象（除非你配置高到离谱）
 3.建议使用Windows XP，Windows Vista，Windows 7，Windows 8(.1)运行，以达到较好的效果，win10以上一些效果出不来
 4.建议使用带有“NumLock”，“CapsLock”，“ScrollLock”这三个指示灯的键盘（诶嘿~）
+5.最后蓝屏重启之后还有彩蛋
+6.可以进入安全模式看能不能解除病毒
 
 Ps：由于文件比较大，已用7z分割压缩，合并解压即可使用
 下载完所有分割块后，打开“合成压缩文件.bat”
